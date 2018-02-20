@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Blah blah
+Blah blah deployment
 
 ## Intro
 
@@ -17,3 +17,5 @@ hello
 ## How to contribute
 
 yack yack
+
+more yack yack
