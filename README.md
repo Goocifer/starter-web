@@ -24,4 +24,4 @@ more yack yack
 
 ###Copyright
 
-me
+All rights reserved
