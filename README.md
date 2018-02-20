@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Blah blah deployment
 
 ## Intro
 
-hello
+hello how are you?
 
 ## How to contribute
 
